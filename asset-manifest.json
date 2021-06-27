@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/publicBlogging/static/css/main.edb7d753.chunk.css",
-    "main.js": "/publicBlogging/static/js/main.a7b287f8.chunk.js",
-    "main.js.map": "/publicBlogging/static/js/main.a7b287f8.chunk.js.map",
+    "main.css": "/publicBlogging/static/css/main.1d69d053.chunk.css",
+    "main.js": "/publicBlogging/static/js/main.ba606765.chunk.js",
+    "main.js.map": "/publicBlogging/static/js/main.ba606765.chunk.js.map",
     "runtime-main.js": "/publicBlogging/static/js/runtime-main.99b51901.js",
     "runtime-main.js.map": "/publicBlogging/static/js/runtime-main.99b51901.js.map",
     "static/js/2.2b433aea.chunk.js": "/publicBlogging/static/js/2.2b433aea.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.deb055ef.chunk.js": "/publicBlogging/static/js/3.deb055ef.chunk.js",
     "static/js/3.deb055ef.chunk.js.map": "/publicBlogging/static/js/3.deb055ef.chunk.js.map",
     "index.html": "/publicBlogging/index.html",
-    "static/css/main.edb7d753.chunk.css.map": "/publicBlogging/static/css/main.edb7d753.chunk.css.map",
+    "static/css/main.1d69d053.chunk.css.map": "/publicBlogging/static/css/main.1d69d053.chunk.css.map",
     "static/js/2.2b433aea.chunk.js.LICENSE.txt": "/publicBlogging/static/js/2.2b433aea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.99b51901.js",
     "static/js/2.2b433aea.chunk.js",
-    "static/css/main.edb7d753.chunk.css",
-    "static/js/main.a7b287f8.chunk.js"
+    "static/css/main.1d69d053.chunk.css",
+    "static/js/main.ba606765.chunk.js"
   ]
 }
